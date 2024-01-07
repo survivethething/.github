@@ -1,6 +1,4 @@
 {
   "name": "Build Workflow",
   "description": "This workflow builds docker image from root dockerfile to see if it can.",
-  "iconName": "docker",
-  "categories": ["Docker", "Build"]
 }
