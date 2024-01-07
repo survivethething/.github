@@ -1,9 +1,7 @@
 name: Build And Publish Workflow
 on:
   push:
-    branches:
-      - main
-      - master
+    branches: [ $default-branch ]
 
 jobs:
   docker-build-publish:
