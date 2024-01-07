@@ -1,4 +1,6 @@
 {
   "name": "Build And Publish Workflow",
   "description": "This workflow builds docker images and publishes them to a private image registry. The IMAGE_NAME secret should be set for this to work.",
+  "iconName": "docker",
+  "categories": ["Docker", "Container", "Deployment"]
 }
