@@ -1,4 +1,4 @@
-name: BuildPublish
+name: Build And Publish Workflow
 on:
   push:
     branches:
